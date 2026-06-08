@@ -1,16 +1,39 @@
-## Hi there 👋
+# Tawfic Ahmad
 
-<!--
-**tawficahmad/tawficahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Intelligence Analyst based in Gloucester, UK. I work with 
+data to help organisations make better decisions — turning raw numbers 
+into clear findings that non-technical audiences can actually use.
 
-Here are some ideas to get you started:
+My background spans digital transformation, business analysis and 
+data work across public sector and education settings. I'm particularly 
+interested in how local government can use data more effectively to 
+serve communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+Three portfolio projects covering the core skills of BI and data analysis work:
+
+**[Retail Sales BI Analysis](https://github.com/tawficahmad/bi-sales-analysis)**
+End-to-end BI project analysing retail sales data. Covers Python analysis, 
+SQL querying and a Power BI dashboard with business recommendations.
+
+**[Council Planning Applications Analysis](https://github.com/tawficahmad/council-housing-analysis)**
+Analysis of UK government planning data with a focus on the South West 
+and Gloucester specifically. Built to mirror the kind of work a local 
+government BI team does day to day.
+
+**[ETL Pipeline & Data Quality Audit](https://github.com/tawficahmad/data-quality-etl-pipeline)**
+A structured ETL pipeline and data quality audit framework built on 
+government planning data. Documents the process of taking raw data 
+and making it fit for analysis.
+
+## Tools I work with
+
+Python · SQL · Power BI · Pandas · Matplotlib · Excel
+
+## Background
+
+MSc Management, Information Systems and Digital Innovation — 
+London School of Economics (2023)
+
+Chevening Scholar
