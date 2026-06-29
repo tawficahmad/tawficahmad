@@ -29,7 +29,7 @@ and making it fit for analysis.
 
 ## Tools I work with
 
-SQL · Power BI  · Tableau · R · Python · Pandas · Matplotlib · Excel · Gen AI for BI · 
+SQL · Power BI  · Tableau · R · Python · Pandas · Matplotlib · Excel · Gen AI for BI (eversql, OneNine AI, infogram, akkio, etc.) 
 
 ## Background
 
