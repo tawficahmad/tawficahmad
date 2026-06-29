@@ -11,7 +11,8 @@ serve communities.
 
 ## What I'm working on
 
-Three portfolio projects covering the core skills of BI and data analysis work:
+Four portfolio projects covering the core skills of BI and data analysis work:
+
 **[Capstone BI Project - Retail Analysis](https://github.com/tawficahmad/retail-bi-capstone-sales-analysis)**
 My IBM BI Analyst Professional Certificate capstone project analysing a retail chain's sales data. Covers advanced Excel and PostgreSQL analysis and visualisation, and a Tableaue and IBM Cognos Analytics dashboard with business recommendations.
 
